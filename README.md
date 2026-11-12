@@ -14,7 +14,7 @@
   <a href="mailto:zydanalfareza7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/zydanalfareza7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/zydan_alfa"><img src="https://img.shields.io/badge/Instagram-@zydan__alfa-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@Montella"><img src="https://img.shields.io/badge/TikTok-@Montella-000000?style=flat&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@montell21"><img src="https://img.shields.io/badge/TikTok-@montell21-000000?style=flat&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ public class AboutMe {
 - 🔭 Lagi ngerjain project **Aplikasi Parkir Kendaraan** (Java Swing + Spring + Hibernate)
 - 🌱 Lagi belajar **Spring Boot, REST API, dan Database Design**
 - 🏍️ Hobi **motoran** — kalau gak lagi ngoding, pasti lagi di jalan
-- 🎬 Cek konten aku di TikTok **[@Montella](https://www.tiktok.com/@Montella)**
+- 🎬 Cek konten aku di TikTok **[@montell21](https://www.tiktok.com/@montell21)**
 - 💬 Tanya aja soal **Java, OOP, dan SQL**
 - 📫 Hubungi aku di **zydanalfareza7@gmail.com**
 
