@@ -13,9 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=zydanalfareza7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="mailto:zydanalfareza7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/zydanalfareza7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <!-- Ganti link di bawah dengan akun kamu -->
-  <a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/zydan_alfa"><img src="https://img.shields.io/badge/Instagram-@zydan__alfa-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
