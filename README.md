@@ -21,18 +21,14 @@
 
 ## 🙋‍♂️ About Me
 
-```java
-public class AboutMe {
-    String name        = "Zydan Alfareza";
-    String university  = "Universitas Gunadarma";
-    String major       = "Informatika";          // ganti kalau beda jurusan
-    String location    = "Indonesia 🇮🇩";
-    String[] interests = {"Software Engineering", "Backend Development", "Desktop Apps"};
-    String currently   = "Learning Spring Framework & Hibernate ORM";
-    String hobby       = "Motoran 🏍️";
-    String funFact     = "Ngoding sambil dengerin Katy Perry 🎧";
-}
-```
+| | |
+|---|---|
+| 👤 **Nama** | Zydan Alfareza |
+| 🎓 **Kampus** | Universitas Gunadarma |
+| 📍 **Lokasi** | Indonesia |
+| 💻 **Minat** | Software Engineering, Backend Development, Desktop Apps |
+| 🏍️ **Hobi** | Motoran |
+| 🎧 **Fun Fact** | Ngoding sambil dengerin Katy Perry |
 
 - 🎓 Mahasiswa **Universitas Gunadarma**
 - 🔭 Lagi ngerjain project **Aplikasi Parkir Kendaraan** (Java Swing + Spring + Hibernate)
