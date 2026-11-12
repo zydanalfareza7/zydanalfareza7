@@ -35,7 +35,6 @@
 - 🌱 Lagi belajar **Spring Boot, REST API, dan Database Design**
 - 🏍️ Hobi **motoran** — kalau gak lagi ngoding, pasti lagi di jalan
 - 🎬 Cek konten aku di TikTok **[@montell21](https://www.tiktok.com/@montell21)**
-- 💬 Tanya aja soal **Java, OOP, dan SQL**
 - 📫 Hubungi aku di **zydanalfareza7@gmail.com**
 
 ---
