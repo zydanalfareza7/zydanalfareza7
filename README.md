@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Informatics+Student+%40+Universitas+Gunadarma;Java+%7C+Spring+Framework+%7C+Hibernate;Building+Desktop+%26+Web+Apps+%F0%9F%9A%80;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Informatics+Student+%40+Universitas+Gunadarma;Java+%7C+Spring+Framework+%7C+Hibernate;Building+Desktop+%26+Web+Apps+%F0%9F%9A%80;Motoran+Enthusiast+%F0%9F%8F%8D%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,6 +14,7 @@
   <a href="mailto:zydanalfareza7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/zydanalfareza7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://instagram.com/zydan_alfa"><img src="https://img.shields.io/badge/Instagram-@zydan__alfa-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@Montella"><img src="https://img.shields.io/badge/TikTok-@Montella-000000?style=flat&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
@@ -28,6 +29,7 @@ public class AboutMe {
     String location    = "Indonesia 🇮🇩";
     String[] interests = {"Software Engineering", "Backend Development", "Desktop Apps"};
     String currently   = "Learning Spring Framework & Hibernate ORM";
+    String hobby       = "Motoran 🏍️";
     String funFact     = "Ngoding sambil dengerin Katy Perry 🎧";
 }
 ```
@@ -35,6 +37,8 @@ public class AboutMe {
 - 🎓 Mahasiswa **Universitas Gunadarma**
 - 🔭 Lagi ngerjain project **Aplikasi Parkir Kendaraan** (Java Swing + Spring + Hibernate)
 - 🌱 Lagi belajar **Spring Boot, REST API, dan Database Design**
+- 🏍️ Hobi **motoran** — kalau gak lagi ngoding, pasti lagi di jalan
+- 🎬 Cek konten aku di TikTok **[@Montella](https://www.tiktok.com/@Montella)**
 - 💬 Tanya aja soal **Java, OOP, dan SQL**
 - 📫 Hubungi aku di **zydanalfareza7@gmail.com**
 
