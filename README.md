@@ -101,8 +101,8 @@ Fun Fact: Ngoding sambil dengerin Katy Perry 🎧
         <li>Rekap absensi & pengelolaan data mahasiswa terpadu</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/zydanalfareza7?tab=repositories">
-          <img src="https://img.shields.io/badge/Explore_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repos" />
+        <a href="https://github.com/zydanalfareza7/web-absensi-mahasiswa">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
